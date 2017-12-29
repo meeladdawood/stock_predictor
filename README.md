@@ -1,1 +1,1 @@
-# Stock Predition using Python and SciKit Learn
+# Stock Prediction using Python and SciKit Learn
